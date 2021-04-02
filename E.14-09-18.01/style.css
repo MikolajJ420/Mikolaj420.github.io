@@ -1,0 +1,59 @@
+#baner {
+	background: #829EB9;
+	height: 50px;
+	font-family: Arial;
+	text-align: center;
+}
+
+#panellewy {
+	float: left;
+	background: #B3C6D9;
+	height: 600px;
+	width: 25%;
+	text-align: center;
+	border: 2px solid 70%;
+}
+
+#panelprawy {
+	float: left;
+	background: #E0E9F1;
+	height: 600px;
+	width: 75%;
+	text-align: center;
+}
+
+#stopka {
+	clear: both;
+	background: #829EB9;
+	font-family: Arial;
+	text-align: center;
+}
+
+img {
+	margin: 30px;
+	padding: 10px;
+	border: 2px dotted #B3C6D9;
+}
+
+table {
+	margin: 30px;
+	border: 2px solid;
+	width: 70%;
+}
+
+th {
+	background: #B3C6D9;
+}
+
+th, td {
+	border: 2px solid;
+}
+
+tr:hover * {
+	background: blue;
+	color: white;
+}
+
+p {
+	margin: 30px;
+}
