@@ -1,0 +1,58 @@
+#baner {
+	background: rgb(220, 220, 220);
+	padding: 20px;
+	text-align: center;
+}
+
+#lewy {
+	float: left;
+	background: rgb(255,127, 80);
+	color: white;
+	width: 50%;
+	height: 410px;
+}
+
+#prawy {
+	float: left;
+	background: rgb(255,127, 80);
+	color: white;
+	width: 50%;
+	height: 410px;
+}
+
+#glowny {
+	clear: both;
+	background: rgb(220, 220, 220);
+	padding: 20px;
+	text-align: center;
+}
+
+#stopkalew {
+	float: left;
+	background: rgb(255, 127, 80);
+	color: white;
+	width: 50%;
+	height: 100px;
+}
+
+#stopkapraw {
+	float: left;
+	float: left;
+	background: rgb(255, 127, 80);
+	color: white;
+	width: 50%;
+	height: 100px;
+}
+
+html {
+	font-family: Arial;
+}
+table, td {
+	border: solid 1px rgb(255, 127, 80);
+	padding: 10px;
+	text-align: center;
+}
+
+a.link {
+	color: white;
+}
